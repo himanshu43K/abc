@@ -1,0 +1,13 @@
+
+/* Genderbanner.css */
+.bottom-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 75px;
+    justify-content: flex-end;
+    
+
+     /* Ensure the container takes up the full height of its parent */
+  }
+  
